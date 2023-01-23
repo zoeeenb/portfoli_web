@@ -1,0 +1,17 @@
+@font-face {
+    font-family:'Bebas Neue';
+    src:url(../Fonts/tipo1/BebasNeue-Regular.eot)format('eot'),
+        url(../Fonts/tipo1/BebasNeue-Regular.svg)format('svg'),
+        url(../Fonts/tipo1/BebasNeue-Regular.ttf)format('ttf'),
+        url(../Fonts/tipo1/BebasNeue-Regular.woff)format('woff'),
+        url(../Fonts/tipo1/BebasNeue-Regular.woff2)format('woff2'),
+}
+
+@font-face {
+    font-family:'Istok Web';
+    src:url(../Fonts/tipo2/IstokWeb-Regular.eot)format('eot'),
+    url(../Fonts/tipo2/IstokWeb-Regular.svg)format('svg'),
+    url(../Fonts/tipo2/IstokWeb-Regular.ttf)format('ttf'),
+    url(../Fonts/tipo2/IstokWeb-Regular.woff)format('woff'),
+    url(../Fonts/tipo2/IstokWeb-Regular.woff2)format('woff2'),
+}
